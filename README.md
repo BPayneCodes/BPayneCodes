@@ -1,7 +1,8 @@
 ## Helli, I'm Billy👋
-<a href="https://www.linkedin.com/in/billy-payne-a82429244/?skipRedirect=true">
+LinkedIn: <a href ="https://www.linkedin.com/in/billy-payne-a82429244/?skipRedirect=true" > Profile
+ 
 
-[Brief Introduction]
+## Introduction
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
