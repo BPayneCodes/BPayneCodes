@@ -1,5 +1,5 @@
 ## Helli, I'm Billy👋
-<a href="https://www.linkedin.com/in/billy-payne-a82429244/?skipRedirect=true>
+<a href="https://www.linkedin.com/in/billy-payne-a82429244/?skipRedirect=true">
 
 [Brief Introduction]
 
