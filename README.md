@@ -1,17 +1,55 @@
-## Helli, I'm Billy👋
-LinkedIn: <a href ="https://www.linkedin.com/in/billy-payne-a82429244/?skipRedirect=true" > Profile
- 
+# Hello, I'm Billy
+<a href="https://www.linkedin.com/in/billy-payne-a82429244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Introduction
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Individual with a strong technical foundation in cybersecurity, system administration, and network troubleshooting. Holds a Bachelor’s degree in Computer Science and brings 8 months of IT Specialist experience supporting users, diagnosing technical issues, and maintaining IT systems. Passionate about blue team security, threat detection, and digital forensics with hands-on lab experience in SIEM monitoring and attack detection. I also have other programming project involving Python, C++, Javascript, HTML, and CSS on my repository page.
 
 ## Objective
-[Provide Objective]
 
-My journey in computer science has led me down many path of discovery and self-interests. I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst
+Aspiring SOC Analyst with practical experience designing cybersecurity home labs to simulate real-world attacks and monitor security events using leading SIEM and SOAR technologies.
 
-##Skills
+## Skills
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/BPayneCodes/Detection-Lab">Wireshark Traffic Analysis</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/BPayneCodes/Wazuh-Server">Wazuh Server Endpoint Detection</a>|
+| Not Yet Available        | Not Yet Available|
+| Not Yet Available      | Not Yet Available|
+| Not Yet Available                  | Not Yet Available|
+| Not Yet Available | Not Yet Available|
 
+## Tools
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA%20Project +-ED1C24?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL%20v4%20-003366?&style=for-the-badge&logo=itil&logoColor=white" />
+
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
