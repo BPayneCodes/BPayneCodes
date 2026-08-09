@@ -2,19 +2,19 @@
 <a href="https://www.linkedin.com/in/billy-payne-a82429244/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Individual with a strong technical foundation in cybersecurity, system administration, and network troubleshooting. Holds a Bachelor’s degree in Computer Science and brings 8 months of IT Specialist experience supporting users, diagnosing technical issues, and maintaining IT systems. Passionate about blue team security, threat detection, and digital forensics with hands-on lab experience in SIEM monitoring and attack detection. I also have other programming project involving Python, C++, Javascript, HTML, and CSS on my repository page.
+Individual with a strong technical foundation in cybersecurity, system administration, and network troubleshooting. Holds a Bachelor’s degree in Computer Science and brings 8 months of IT Specialist experience supporting users, diagnosing technical issues, and maintaining IT systems. Passionate about blue team security, threat detection, and digital forensics with hands-on lab experience in SIEM monitoring and attack detection. I also have other programming projects involving Python, C++, Javascript, HTML, and CSS on my repository page.
 
 ## Objective
 
 Aspiring SOC Analyst with practical experience designing cybersecurity home labs to simulate real-world attacks and monitor security events using leading SIEM and SOAR technologies.
 
-## Skills
+## SOC Home Lab Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/BPayneCodes/Detection-Lab">Wireshark Traffic Analysis</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/BPayneCodes/Wazuh-Server">Wazuh Server Endpoint Detection</a>|
-| Not Yet Available        | Not Yet Available|
+| Threat Investigation and Incident Response       | <a href="https://github.com/BPayneCodes/Microsoft-Sentinel-Live-Hack-Monitoring-Geolocating/blob/main/README.md">Microsoft Sentinel Hacker Hunt</a>|
 | Not Yet Available      | Not Yet Available|
 | Not Yet Available                  | Not Yet Available|
 | Not Yet Available | Not Yet Available|
